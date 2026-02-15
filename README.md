@@ -1,4 +1,4 @@
-## 🏦 Bank Loan Portfolio Analytics & Risk Modeling
+## 🏦 Bank Loan Data Analysics & Risk Modeling
 ### 🎯  Data Engineering & Processing
 * rocessed 14,384 & 38,576 loan records with 28 structured attributes.
 * Cleaned 459 missing employment entries; standardized date/time fields for analysis..
@@ -9,7 +9,7 @@
 
 ### 🛠 Tools & Methods used
 → Power BI, DAX, Power Query, Exploratory Data Analysis (EDA), Financial Modeling.
-#  Dashboard
+###  Dashboard
 
 <p align="center">
   <img src="Bank-Loan-Data-Analysis.png" width="1000" height="500"/>
