@@ -1,4 +1,4 @@
-## 🏦 Bank Loan Data Analysics & Risk Modeling
+## 🏦 Bank Loan Data Analysis & Risk Modeling
 ### 🎯  Data Engineering & Processing
 * rocessed 14,384 & 38,576 loan records with 28 structured attributes.
 * Cleaned 459 missing employment entries; standardized date/time fields for analysis..
