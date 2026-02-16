@@ -1,18 +1,18 @@
 ## 🏦 Bank Loan Data Analysis & Risk Modeling
 ### 🎯  Data Engineering & Processing
-* rocessed 14,384 & 38,576 loan records with 28 structured attributes.
-* Cleaned 459 missing employment entries; standardized date/time fields for analysis..
-* ETL & Schema Engineering: Built Power Query pipelines, optimized data types for high-performance analytics.
-* Feature Engineering: Created numerical (Loan_Amount, Annual_Income, Int_Rate, DTI), categorical (Loan_Status, Grade, Purpose), and temporal features.
-* Ensured 100% data integrity for downstream analytics.
-* Prepared the dataset for accurate portfolio segmentation, trend mapping, and KPI calculations.
+* *rocessed 14,384 & 38,576 loan records with 28 structured attributes.*
+* *Cleaned 459 missing employment entries; standardized date/time fields for analysis.*
+* *ETL & Schema Engineering: Built Power Query pipelines, optimized data types for high-performance analytics.*
+* *Feature Engineering: Created numerical (Loan_Amount, Annual_Income, Int_Rate, DTI), categorical (Loan_Status, Grade, Purpose), and temporal features.*
+* *Ensured 100% data integrity for downstream analytics.*
+* *Prepared the dataset for accurate portfolio segmentation, trend mapping, and KPI calculations.*
 
 ### 🛠 Tools & Methods used
 → Power BI, DAX, Power Query, Exploratory Data Analysis (EDA), Financial Modeling.
 ###  Dashboard
 
 <p align="center">
-  <img src="Bank%20Loan%20Application%20Dashboard.png" width="1500" height="700"/>
+  <img src="Bank%20Loan%20Application%20Dashboard.png" width="1500" height="600"/>
 </p>
 
 ###  🗳 Financial Strength & Performance
@@ -45,20 +45,26 @@ Findings:
 * Average loan size: $11.3K
 
 ### 🌍 Regional & Stability Analysis
-→ Identified high-volume states: CA, NY, FL → enables regional credit strategies.   
-→ Mortgage-backed borrowers show higher Good Loan ratio → more stable lending segment.      
-→ Regional targeting enables strategic marketing and credit policy
+→ *Identified high-volume states: CA, NY, FL → enables regional credit strategies.*   
+→ *Mortgage-backed borrowers show higher Good Loan ratio → more stable lending segment.*      
+→ *Regional targeting enables strategic marketing and credit policy*
 
 ### 🚀  Consolidated Outcome        
-✓  Enabled strategic risk mitigation for $65.5M Bad Loan segment.         
-✓  Default exposure contained (13–16% range)               
-✓  Highlighted 36-month loans & Debt Consolidation as most profitable products.            
-✓  Validated portfolio profitability, liquidity, and controlled credit risk.
+✓  *Enabled strategic risk mitigation for $65.5M Bad Loan segment.*         
+✓  *Default exposure contained (13–16% range)*               
+✓  *Highlighted 36-month loans & Debt Consolidation as most profitable products.*            
+✓  *Validated portfolio profitability, liquidity, and controlled credit risk.*
 
 ## 🎯 Achievements
-➡ Built ETL pipelines, Power Query transformations, and Power BI dashboards to track and analyze loan portfolio performance.       
-➡ Segmented loans into 84–86% performing vs 14–16% charged-off and quantified $65.5M high-risk exposure.             
-➡ Delivered insights on 36-month term loans and Debt Consolidation, driving 141–172% growth, 12% yield, and 13% DTI for improved portfolio profitability.
+➡ *Built ETL pipelines, Power Query transformations, and Power BI dashboards to track and analyze loan portfolio performance.*       
+➡ *Segmented loans into 84–86% performing vs 14–16% charged-off and quantified $65.5M high-risk exposure.*             
+➡ *Delivered insights on 36-month term loans and Debt Consolidation, driving 141–172% growth, 12% yield, and 13% DTI for improved portfolio profitability.*
+
+
+____________________________________________________________ Developed by RAMESH SABHAVATH👨🏼‍💻
+
+
+
 
 
 
